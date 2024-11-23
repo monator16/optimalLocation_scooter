@@ -6,7 +6,7 @@
 <img src ="https://github.com/monator16/optimalLocation_scooter/blob/main/src/2. 행정동 선정.png">
 <img src ="https://github.com/monator16/optimalLocation_scooter/blob/main/src/3. 행정동선정_결과.png">
 <img src ="https://github.com/monator16/optimalLocation_scooter/blob/main/src/4.MCLP.png">
-<img src ="https://github.com/monator16/optimalLocation_scooter/blob/main/src/5.MCLP조건.png>
+<img src ="https://github.com/monator16/optimalLocation_scooter/blob/main/src/5.MCLP조건.png">
 
 * for further information, please refer to the ppt file I uploaded or a notion report below
 
