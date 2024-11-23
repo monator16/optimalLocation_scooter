@@ -2,9 +2,10 @@
 * Project conducted in ML/AL club, DeepDaiv
 * Feb, 2023 - Mar, 2023
 ## Introduction
-![process](https://github.com/monator16/optimalLocation_scooter/blob/main/src/1.자치구 선정.png)
-![process](https://github.com/monator16/optimalLocation_scooter/blob/main/src/2. 행정동 선정.png)
-![process](https://github.com/monator16/optimalLocation_scooter/blob/main/src/3. 행정동선정_결과.png)
+<img src ="https://github.com/monator16/optimalLocation_scooter/blob/main/src/1.자치구 선정.png">
+<img src ="https://github.com/monator16/optimalLocation_scooter/blob/main/src/2. 행정동 선정.png">
+<img src ="https://github.com/monator16/optimalLocation_scooter/blob/main/src/3. 행정동선정_결고.png">
+
 ![process](https://github.com/monator16/optimalLocation_scooter/blob/main/src/4.MCLP.png)
 ![process](https://github.com/monator16/optimalLocation_scooter/blob/main/src/5.MCLP조건.png)
 * for further information, please refer to the ppt file I uploaded or a notion report below
